@@ -30,6 +30,9 @@
 <p>
   Automatisering van het proces dat men nu manueel doet. Zorgen dat alle videobeelden automatisch getagd en gegroepeerd worden, zodat men na een match via het cloud dashboard alle fases kunnen bekijken zonder dit gehele proces zelf te moeten uitvoeren.
 </p>
+<p>
+  Hiervoor zouden we gebruik maken van Object Segmentation. Voor dit moeten we alle aparte objecten gaan labelen, hiervoor kunnen we gebruik maken van VOTT of andere gelijkaardige software.
+</p>
 
 
 
